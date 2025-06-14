@@ -22,7 +22,7 @@ Enter second number: 5
 
 Addition: 15
 Subtraction: 5
-Multiplication: 50
+Multiplication:50
 Division: 2.0
 
 ---
